@@ -1,2 +1,3 @@
-# proyecto python mig
-print ("hola, soy Luis David")
+# proyecto python eq
+
+print ("Hola, Maquina. David es Gay")
