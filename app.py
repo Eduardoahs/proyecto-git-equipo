@@ -1,2 +1,2 @@
 # proyecto python mig
-print ("hola, soy miguel")
+print ("hola, soy Luis David")
