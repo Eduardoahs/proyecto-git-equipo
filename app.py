@@ -1,2 +1,2 @@
 # proyecto python edu
-print("Hola, soy maria")
+print("Hola, soy Eduardo")
