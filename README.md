@@ -1,4 +1,5 @@
 # proyecto-git-equipo
+Añadi la contribucion a Main
 Proyecto UNIMAR github 
 ## Contribuciones
 **Eduardo**: Cree el repositorio y añadi un saludo hacia mi persona en app.py
